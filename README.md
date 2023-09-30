@@ -1,2 +1,1 @@
-# MyIBM_phase1_
-my project
+This is my project
